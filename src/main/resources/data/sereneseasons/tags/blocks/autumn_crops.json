@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "vintagedelight:peanut_crop",
+    "vintagedelight:ghost_pepper_crop",
+    "vintagedelight:cucumber_crop",
+    "vintagedelight:gearo_berry_bush",
+    "vintagedelight:oat_crop",
+    "coffee_delight:coffee_bush",
+    "festive_delight:cinnamon_bush"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+          "aquaculture:synodontis",
+          "aquaculture:catfish",
+          "aquaculture:bluegill",
+          "aquaculture:perch",
+          "aquaculture:piranha",
+          "aquaculture:atlantic_herring",
+          "aquaculture:boulti"
+  ]
+}

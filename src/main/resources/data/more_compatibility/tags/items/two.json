@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+  "aquaculture:blackfish",
+  "aquaculture:carp",
+  "aquaculture:pink_salmon",
+  "aquaculture:pollock",
+  "aquaculture:rainbow_trout",
+  "aquaculture:smallmouth_bass",
+  "aquaculture:brown_trout"
+  ]
+}

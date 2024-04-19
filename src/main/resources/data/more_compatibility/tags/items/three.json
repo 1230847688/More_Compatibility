@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+          "aquaculture:red_grouper",
+          "aquaculture:tambaqui",
+          "aquaculture:muskellunge"
+  ]
+}
