@@ -1,0 +1,35 @@
+{
+    "key": "iceandfire_silver_ingot",
+    "category": "metal",
+    "primary": 5,
+    "secondary": 1.5,
+    "tertiary": 1,
+    "durability": 380,
+    "integrityCost": 4,
+    "integrityGain": 6,
+    "magicCapacity": 50,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 4,
+    "tints": {
+        "glyph": "DCDCDC",
+        "texture": "FFFFFF"
+    },
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "material": {
+        "items": [
+            "iceandfire:silver_ingot"
+        ]
+    },
+    "requiredTools": {
+        "hammer_dig": "tetra:stone"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ]
+}
