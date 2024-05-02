@@ -11,12 +11,12 @@
     "toolLevel": "minecraft:iron",
     "toolEfficiency": 7,
     "tints": {
-        "glyph": "6666ff",
-        "texture": "66ccff"
+        "glyph": "3366ff",
+        "texture": "2200cc"
     },
     "textures": [
-        "gem",
-        "default"
+        "shiny",
+        "crude"
     ],
     "material": {
         "items": [
