@@ -456,6 +456,10 @@
     { "id": "casualness_delight:raw_fried_dumpling", "required": false },
     { "id": "casualness_delight:fried_dumpling", "required": false },
     { "id": "casualness_delight:bowl_of_fried_dumpling", "required": false },
-    { "id": "casualness_delight:bowl_of_sweet_rice", "required": false }
+    { "id": "casualness_delight:bowl_of_sweet_rice", "required": false },
+
+    { "id": "iceandfire:fire_dragon_flesh", "required": false },
+    { "id": "iceandfire:ice_dragon_flesh", "required": false },
+    { "id": "iceandfire:lightning_dragon_flesh", "required": false }
   ]
 }
