@@ -1,0 +1,35 @@
+{
+    "key": "iceandfire_dragonbone",
+    "category": "rod",
+    "primary": 3,
+    "secondary": 5,
+    "tertiary": 2,
+    "durability": 400,
+    "integrityCost": 2,
+    "integrityGain": 5,
+    "magicCapacity": 50,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 4,
+    "tints": {
+        "glyph": "CDC9C9",
+        "texture": "C1CDC1"
+    },
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [
+            "iceandfire:dragonbone"
+        ]
+    },
+    "requiredTools": {
+        "hammer_dig": "tetra:iron"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ]
+}
