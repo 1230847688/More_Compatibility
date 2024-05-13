@@ -1,2 +1,2 @@
 # More_Compatibility
-Make various modules compatible by adding labels.
+Make various mod compatible by adding labels.
