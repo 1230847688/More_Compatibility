@@ -1,0 +1,18 @@
+[
+    {
+        "conditions": [
+            {
+                "type": "forge:mod_loaded",
+                "modid": "farmersdelight"
+            }
+        ],
+        "predicate": {
+            "items": [ "farmersdelight:golden_knife" ]
+        },
+        "item": "tetra:modular_sword",
+        "modules": {
+            "sword/blade": [ "sword/short_blade", "short_blade/golden" ],
+            "sword/hilt": [ "sword/basic_hilt", "basic_hilt/stick" ]
+        }
+    }
+]
