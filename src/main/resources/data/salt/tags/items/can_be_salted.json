@@ -475,7 +475,7 @@
     { "id": "mynethersdelight:sausage_and_potatoes", "required": false },
     { "id": "mynethersdelight:breakfast_sampler", "required": false },
     { "id": "mynethersdelight:cooked_loin", "required": false },
-    { "id": "mynethersdelight:blue_tenderloin_steek", "required": false },
+    { "id": "mynethersdelight:blue_tenderloin_steak", "required": false },
     { "id": "mynethersdelight:fried_hoglin_chop", "required": false },
     { "id": "mynethersdelight:bullet_pepper", "required": false },
     { "id": "mynethersdelight:spicy_skewer", "required": false },
@@ -487,7 +487,7 @@
     { "id": "mynethersdelight:hot_cream_cone", "required": false },
     { "id": "mynethersdelight:roast_ear", "required": false },
     { "id": "mynethersdelight:plate_of_stuffed_hoglin_snout", "required": false },
-    { "id": "mynethersdelight:plate_of_stuffedaaa_hoglin_ham", "required": false },
+    { "id": "mynethersdelight:plate_of_stuffed_hoglin_ham", "required": false },
     { "id": "mynethersdelight:plate_of_stuffed_hoglin", "required": false }
   ]
 }
